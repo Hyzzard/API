@@ -40,15 +40,15 @@ app.use((req, res, next) => {
 
 ## Meta
 
-Luiz Gustavo – [@SeuNome](https://twitter.com/Hyzzard) – user.hyzzard@gmail.com
+Luiz Gustavo – [@Hyzzard](https://twitter.com/Hyzzard) – user.hyzzard@gmail.com
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-[https://github.com/hyzzard/teste](https://github.com/hyzzard/teste)
+[https://github.com/hyzzard/Teste](https://github.com/hyzzard/Teste)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/hyzzard/teste/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/hyzzard/Teste/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
