@@ -40,7 +40,7 @@ app.use((req, res, next) => {
 
 ## Meta
 
-Luiz Gustavo – [@Hyzzard](https://twitter.com/Hyzzard) – user.hyzzard@gmail.com
+Luiz Gustavo – [@UserHyzzard](https://twitter.com/UserHyzzard) – user.hyzzard@gmail.com
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
