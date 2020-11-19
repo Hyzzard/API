@@ -20,7 +20,10 @@ EM BREVE!
 
 ## Histórico de lançamentos
 
-* 0.0.1
+* 0.0.3
+    * O primeiro lançamento adequado
+    * MUDANÇA: Adicionado `AUTHENTICATE`
+* 0.0.2
     * Trabalho em andamento
     * MUDANÇA: Adicionado `REGISTER`
 * 0.0.1
